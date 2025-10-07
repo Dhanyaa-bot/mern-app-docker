@@ -1,4 +1,4 @@
-basic structure of a mern file<br>
+Basic structure of a mern file<br>
 mern-app/<br>
 │<br>
 ├── backend/<br>
@@ -13,7 +13,7 @@ mern-app/<br>
 │<br>
 └── docker-compose.yml<br>
 <br>
-To run everything toegrther<br>
+To run everything together<br>
 <br>docker-compose up --build
 <br>Then open:
 
