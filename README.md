@@ -14,9 +14,7 @@ mern-app/<br>
 └── docker-compose.yml<br>
 <br>
 To run everything together<br>
-<br>docker-compose up --build
+<br>docker-compose up --build<br>
 <br>Then open:
-
-<br>🌐 http://localhost:3000 → React Frontend
-
+    🌐 http://localhost:3000 → React Frontend
 <br>🌐 http://localhost:5000 → Node Backend
